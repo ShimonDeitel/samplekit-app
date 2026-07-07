@@ -1,0 +1,29 @@
+{
+  "identifier": "MASTER",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "6.99",
+      "familyShareable": false,
+      "internalID": "samplekit_pro",
+      "localizations": [
+        {
+          "description": "Follow-up reminders and return-tracking status",
+          "displayName": "Wardrobe Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "samplekit_pro",
+      "referenceName": "Wardrobe Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
